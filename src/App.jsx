@@ -18,6 +18,9 @@ function App() {
           <ListadoBebidas/>
           <ModalBebida/>
         </Container>
+        <footer>
+          <h2>Desarrollado por DevPoint Víctor Tejada</h2>
+        </footer>
       </BebidasProvider>
     </CategoriasProvider>
   )
